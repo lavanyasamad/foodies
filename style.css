@@ -1,0 +1,75 @@
+hr{
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+}
+
+#navbar{
+    display: flex;
+    align-items: center;
+    background-color: rgb(116, 123, 123);
+}
+
+#logo{
+    width: 10%;
+}
+
+#navlinks{
+    width: 70%;
+    text-align: center;
+
+}
+
+#media{
+    width: 20%;
+    text-align: center;
+}
+#logoimg{
+    height: 80px;
+    margin: 3px 5px;
+    border: 2px rgb(30, 125, 193) solid;
+     border-radius:40px;
+}
+
+#links{
+    display:flex;
+
+}
+#links li a{
+    padding: 5px 45px;
+    text-decoration: none;
+    color: white;
+    border-radius:20px;
+
+}
+
+#links li a:hover{
+    background-color: rgb(216, 57, 57);
+    color:rgb(97, 208, 208)
+    border-radius:10px;
+    transition: 1s;
+    border-botttom: 5px aqua ;
+
+    
+}
+
+#currentitems{
+    border: 2px solid white;
+    border-radius:20px;
+
+}
+
+.lilinks{
+    list-style: none;
+    font-family: "Bree Serif", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 25px;
+
+
+}
+
+#media img{
+    width: 40px;
+
+}

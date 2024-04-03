@@ -1,0 +1,29 @@
+hr{
+    border: 2px;
+    border-color: red;
+    border-style: solid;
+}
+
+#navbar{
+    display: flex;
+}
+
+#logo{
+    width: 10%;
+}
+
+#navlinks{
+    width: 70%;
+
+}
+
+#media{
+    width: 20%;
+}
+#logoimg{
+    height: 80px;
+    margin: 3px 5px;
+    border: 2px red solid;
+
+    border-radius:2px;
+}
